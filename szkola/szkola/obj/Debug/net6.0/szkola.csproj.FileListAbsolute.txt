@@ -1,0 +1,45 @@
+C:\Users\w i k a\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.csproj.AssemblyReference.cache
+C:\Users\w i k a\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w i k a\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.AssemblyInfoInputs.cache
+C:\Users\w i k a\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.AssemblyInfo.cs
+C:\Users\w i k a\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.csproj.CoreCompileInputs.cache
+C:\Users\w i k a\source\repos\szkola\szkola\bin\Debug\net6.0\szkola.exe
+C:\Users\w i k a\source\repos\szkola\szkola\bin\Debug\net6.0\szkola.deps.json
+C:\Users\w i k a\source\repos\szkola\szkola\bin\Debug\net6.0\szkola.runtimeconfig.json
+C:\Users\w i k a\source\repos\szkola\szkola\bin\Debug\net6.0\szkola.dll
+C:\Users\w i k a\source\repos\szkola\szkola\bin\Debug\net6.0\ref\szkola.dll
+C:\Users\w i k a\source\repos\szkola\szkola\bin\Debug\net6.0\szkola.pdb
+C:\Users\w i k a\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.dll
+C:\Users\w i k a\source\repos\szkola\szkola\obj\Debug\net6.0\ref\szkola.dll
+C:\Users\w i k a\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.pdb
+C:\Users\w i k a\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.genruntimeconfig.cache
+C:\Users\Uczen\source\repos\szkola\szkola\bin\Debug\net6.0\szkola.exe
+C:\Users\Uczen\source\repos\szkola\szkola\bin\Debug\net6.0\szkola.deps.json
+C:\Users\Uczen\source\repos\szkola\szkola\bin\Debug\net6.0\szkola.runtimeconfig.json
+C:\Users\Uczen\source\repos\szkola\szkola\bin\Debug\net6.0\szkola.dll
+C:\Users\Uczen\source\repos\szkola\szkola\bin\Debug\net6.0\szkola.pdb
+C:\Users\Uczen\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.csproj.AssemblyReference.cache
+C:\Users\Uczen\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.AssemblyInfoInputs.cache
+C:\Users\Uczen\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.AssemblyInfo.cs
+C:\Users\Uczen\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.dll
+C:\Users\Uczen\source\repos\szkola\szkola\obj\Debug\net6.0\refint\szkola.dll
+C:\Users\Uczen\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.pdb
+C:\Users\Uczen\source\repos\szkola\szkola\obj\Debug\net6.0\szkola.genruntimeconfig.cache
+C:\Users\Uczen\source\repos\szkola\szkola\obj\Debug\net6.0\ref\szkola.dll
+C:\Users\Uczen\Desktop\szkola\szkola\bin\Debug\net6.0\szkola.exe
+C:\Users\Uczen\Desktop\szkola\szkola\bin\Debug\net6.0\szkola.deps.json
+C:\Users\Uczen\Desktop\szkola\szkola\bin\Debug\net6.0\szkola.runtimeconfig.json
+C:\Users\Uczen\Desktop\szkola\szkola\bin\Debug\net6.0\szkola.dll
+C:\Users\Uczen\Desktop\szkola\szkola\bin\Debug\net6.0\szkola.pdb
+C:\Users\Uczen\Desktop\szkola\szkola\obj\Debug\net6.0\szkola.csproj.AssemblyReference.cache
+C:\Users\Uczen\Desktop\szkola\szkola\obj\Debug\net6.0\szkola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\Desktop\szkola\szkola\obj\Debug\net6.0\szkola.AssemblyInfoInputs.cache
+C:\Users\Uczen\Desktop\szkola\szkola\obj\Debug\net6.0\szkola.AssemblyInfo.cs
+C:\Users\Uczen\Desktop\szkola\szkola\obj\Debug\net6.0\szkola.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\Desktop\szkola\szkola\obj\Debug\net6.0\szkola.dll
+C:\Users\Uczen\Desktop\szkola\szkola\obj\Debug\net6.0\refint\szkola.dll
+C:\Users\Uczen\Desktop\szkola\szkola\obj\Debug\net6.0\szkola.pdb
+C:\Users\Uczen\Desktop\szkola\szkola\obj\Debug\net6.0\szkola.genruntimeconfig.cache
+C:\Users\Uczen\Desktop\szkola\szkola\obj\Debug\net6.0\ref\szkola.dll
